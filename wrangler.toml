@@ -1,0 +1,7 @@
+name = "bam-studios-contact"
+main = "worker.js"
+compatibility_date = "2024-10-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://bam-studios-website.pages.dev"
+RECIPIENT_EMAIL = "buisch2314@gmail.com"
